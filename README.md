@@ -1,5 +1,7 @@
 # 🌩️ drizzle-demo
 
+![Cover image for drizzle-demo](cover-image.png "Cover image for drizzle-demo")
+
 Welcome to **drizzle-demo**, a project born from exploring the depths of modern JavaScript and TypeScript development. This repository is a playground for learning, experimenting, and mastering database operations with [Drizzle ORM](https://orm.drizzle.team/) and [Bun](https://bun.sh).
 
 ## 🚀 What is drizzle-demo?
