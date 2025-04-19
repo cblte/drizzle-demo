@@ -1,0 +1,21 @@
+{
+  "name": "drizzle-demo",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/pg": "^8.11.13",
+    "@types/validator": "^13.15.0",
+    "drizzle-kit": "^0.31.0",
+    "validator": "^13.15.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.42.0",
+    "inquirer": "^12.5.2",
+    "pg": "^8.14.1"
+  }
+}
